@@ -1,4 +1,4 @@
-RdioAllThings
+RdioAllSongs
 =============
 
 This is a simple Python app to create playlists on Rdio for All Songs Considered shows.
