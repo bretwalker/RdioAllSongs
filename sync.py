@@ -131,4 +131,4 @@ def load_new_episodes():
             
 if __name__ == "__main__":
     update_existing_playlists()
-    #load_new_episodes()
+    load_new_episodes()
