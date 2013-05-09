@@ -1,7 +1,7 @@
 RdioAllSongs
 =============
 
-This is a simple Python app to create playlists on Rdio for All Songs Considered shows.
+This is a simple Python app to create playlists on [Rdio](http://www.rdio.com) for [All Songs Considered](http://www.npr.org/blogs/allsongs/) shows.
 
 This app is meant to run daily and it will do two things:
   * Create new playlists for new episodes
